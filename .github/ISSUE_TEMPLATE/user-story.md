@@ -1,6 +1,6 @@
 ---
-name: User Story
-about: Created Feb 6 test
+name: user story
+about: 'Description #2'
 title: ''
 labels: ''
 assignees: ''
